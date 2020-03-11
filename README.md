@@ -4,6 +4,8 @@
 
 ## 学习成长-路径
 
+[ROADMAP](ROADMAP.md)
+
 [阿里云-人工智能学习路径](https://edu.aliyun.com/roadmap/ai?spm=5176.11399608.aliyun-edu-index-014.3.1e814679BMEJc6)
 
 ## 参考资料
